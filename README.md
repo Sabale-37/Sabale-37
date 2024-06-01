@@ -50,3 +50,5 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/Sabale-37/Sabale-37/output/snake.svg" alt="Snake animation" />
+
